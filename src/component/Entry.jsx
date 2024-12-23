@@ -1,4 +1,4 @@
- import imageone from "../image/one.jpeg"
+import imageone from "../image/one.jpeg"
  import imagetwo from "../image/Two.png"
 
  export default function Entry(props){

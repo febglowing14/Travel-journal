@@ -28,3 +28,11 @@ header >h1{
   display: flex;
   flex-shrink: 0;
 }
+.paris{
+  padding: 10%;
+  padding-left: 10%;
+  width: 40%;
+}
+.info-figures{
+  align-content: center;
+}
